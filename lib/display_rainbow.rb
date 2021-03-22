@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
 display_rainbow = "display rainbow"
  letters = ['R:','O:','Y:','G:','B:','I:','V:']
-colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"
+colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 def display_rainbow.array(letters, colors)
   puts "#{letters[0]}#{colors[0]}"
   "#{letters[1]}#{colors[1]}"
