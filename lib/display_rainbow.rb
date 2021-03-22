@@ -11,4 +11,3 @@ def display_rainbow.array(letters,colors)
   "#{letters[5]}#{colors[5]} "
   "#{letters[6]}#{colors[6]} "
 end
-
