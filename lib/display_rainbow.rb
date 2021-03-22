@@ -2,6 +2,8 @@
 
 colors = ['red','orange','yellow','green','blue','indigo','violet']
 letters = ['R','O','Y','G','B','I','V']
+display_rainbow=array(colors)
+
 def display_rainbow.array (colors)
   puts "R: #{colors[0]},"
   puts "O: #{colors[1]},"
